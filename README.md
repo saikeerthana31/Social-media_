@@ -11,3 +11,5 @@ This project is a Social media page(like instagram). It is HTML + CSS + JS based
   <li>Create a post</li>
   <li>Change the themes(dark mode, light mode, or any customized colors) and the font sizes</li>
 </ul>
+# Final product
+<img width="1297" alt="Screenshot 2025-03-14 at 12 32 52 AM" src="https://github.com/user-attachments/assets/97ea473d-550a-441f-a02c-f165b17b7b04" />
